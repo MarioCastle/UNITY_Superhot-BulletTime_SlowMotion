@@ -5,6 +5,10 @@
 
 # Superhot's Bullet Time | Mix and Jam [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/PwCzrBX) <a href="https://patreon.com/mixandjam"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fmixandjam" /></a>
 
+![image](https://github.com/user-attachments/assets/236a7286-555d-42db-bbb6-f9304497ccff)
+![image](https://github.com/user-attachments/assets/171de5dd-780f-41cf-b024-65373f38c6e0)
+
+
 This is the official respository for the episode #18 of the [Mix and Jam Youtube Channel](https://www.youtube.com/c/MixAndJam)!
 
 ## Getting Started
